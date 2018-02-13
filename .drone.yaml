@@ -3,4 +3,3 @@ pipeline:
     image: node:latest
     commands:
       - npm install
-      - npm run test
